@@ -61,11 +61,14 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>[Enlace al PDF del Usability Review](P1/UsabilityReview.pdf)
+
+>**Valoración Final:** 94
+
+>En general, la web es muy completa y funcional. La gran mayoría de características importantes para este tipo de webs las implementa de forma excelente, y solo falla en varios campos de poca importancia. Es por ello que la nota del Usability Review es muy alta, un 94, calificando la web de excelente. Desde el punto de vista de nuestros personajes cumple en una amplia mayoría las características que se evalúan, si bien tal vez para nuestro personaje extranjero podría tener menor nota ya que no se encuentra disponible su idioma. A pesar de esto, hemos intentando hacer una media entre los dos, además de que los tours también están en inglés, que es el principal idioma que se utiliza en el mundo.
+
+>En cuanto a la práctica, nos ha parecido muy interesante, ya que por primera vez nos ponemos en el punto de vista del usuario que puede ser muy distinto al del programador. Nos hace ver problemas donde creíamos que no los había, a la vez que darnos cuenta de características que hasta ahora pasábamos por alto, como por ejemplo la selección de fechas para un viaje con un calendario de forma intuitiva, en lugar de especificar a mano los días. También, nos ha parecido muy útil, ya que estos estudios de usabilidad, de competidores, de posibles usuarios… podemos realizarlos en cualquier aplicación que se nos ocurra, para tratar siempre de ofrecer la mejor experiencia al usuario final.
 
 
 ## Paso 2. UX Design  
