@@ -28,7 +28,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-![Comp](P1/CompetitorAnalysis.png)
+![Comp](P1/img/CompetitiveAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
