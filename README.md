@@ -30,6 +30,13 @@ Miembros
 
 ![Comp](P1/img/CompetitiveAnalysis.png)
 
+>A nuestro grupo de prácticas se le ha asignado las plataformas relacionadas con experiencia y planificación de ocio. Entre todas ellas, hemos decidido centrarnos en aquellas webs dedicadas a los tours. La web que hemos elegido ha sido FreeTour.com, una web donde puedes reservar tours gratis en cualquier lugar del mundo, que consiste en realizar un tour con un guía de forma totalmente gratuita y el precio lo pone el usuario mediante una propina en función del trabajo de dicho guía. Hemos elegido esta web porque nos gustó su apariencia a primera vista, está actualizada y el hecho de que ofrecen tours gratuitos llama mucho la atención a la hora de viajar.
+
+>No solo por estas razones hemos escogido FreeTour, pues hemos comparado con otras web del mismo estilo como son Civitatis, GranadaCity-Tour, GranadaTours y WalkinGranada. Hemos tenido en cuenta diversas características para realizar la decisión final de sobre cuál trabajar y finalmente llegamos a la conclusión de FreeTour y Civitatis eran las dos candidatas. Entre ellas elegimos FreeTour, ya que Civitatis no ofrecía tours virtuales, muy importantes actualmente, y además no disponía de muchos tours gratuitos.
+
+>El resto de opciones carecían de diversas características importantes como reviews, recomendaciones, etc o incluso no estaban actualizadas o estaban fuera de servicio.
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
