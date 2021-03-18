@@ -39,14 +39,25 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![Manuel](P1/img/PManuel.PNG)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>**Manuel:** Queríamos que Manuel fuese un ejemplo de persona formada, con estudios de posgrado, joven y cercano a los 30 años que no anda mal de dinero pero tampoco tiene para derrocharlo. Busca enseñarle la gastronomía de su ciudad a unos amigos de fuera, por lo que un tour guiado por los principales bares y tabernas puede ser una buena opción. Este perfil se sale del turista que busca monumentos pero que busca tours de otro estilo, por lo que podría ser un claro usuario de la web que estamos estudiando.
+
+![Jessica](P1/img/PJessica.PNG)
+
+>**Jessica:** Queríamos un perfil extranjero que viniera de vacaciones a España. Por ello decimos crear a Jessica, una chica japonesa amante de los idiomas y de las culturas europeas que viajaba siempre que podía. Debido a que viaja mucho, no puede gastar todo lo que gustaría en sus viajes. Por ello suele buscar alternativas baratas para los tour, alojamiento, etc, lo que la hace un perfil perfecto para nuestra web.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![JManuel](P1/img/JMManuel.PNG)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>**Manuel:** Como hemos dicho, busca pasar una buena tarde con sus amigos por Granada y  para ello decide hacer un tour por los principales bares y tabernas, que además tengan buenas vistas a la Alhambra. Finalmente encuentra un tour nocturno, que ofrece una experiencia fantástica, aunque no es gratuito. A pesar de esto, tiene esperanza en que será un buen recuerdo bonito.
+
+![JJessica](P1/img/JMJessica.PNG)
+
+>**Jessica:** Jessica quiere viajar 15 días a Granada. Busca una quincena con buen clima, lo que hace que el billete de avión sea más caro. Esto le hace buscar opciones más baratas para los tours, aunque no le convenza mucho la idea al principio. Encuentra un tour que le convence y cumple sus requisitos, pero una vez lo reserva se da cuenta de que la mitad del tour es en inglés, un idioma que maneja bien, y la otra en español, el cual no conoce muy bien. Termina un poco preocupada ya que no sabe si va a poder disfrutar del tour al 100%
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
