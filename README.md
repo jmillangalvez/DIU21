@@ -28,7 +28,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+(P1/CompetitorAnalysis.pdf)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
