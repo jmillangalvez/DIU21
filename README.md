@@ -5,11 +5,11 @@ Grupo: DIU3_ALH.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
-GoGoKart: App para organizar torneos de karts
+>GoGoKart: App para organizar torneos de karts
 
 Descripción: 
 
-App para organizar y unirse a carreras de karts. Tienes la opción de organizar
+>App para organizar y unirse a carreras de karts. Tienes la opción de organizar
 una carrera en un espacio específico, indicando el número de participantes, reglas, etc.
 Además, los propios circuitos también tienen la posibilidad de organizar sus propias
 carreras y torneos en sus centros. Por otra parte, puedes optar por unirte a carreras o
