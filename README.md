@@ -5,11 +5,11 @@ Grupo: DIU3_ALH.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
->GoGoKart: App para organizar torneos de karts
+GoGoKart: App para organizar torneos de karts
 
 Descripción: 
 
->App para organizar y unirse a carreras de karts. Tienes la opción de organizar
+App para organizar y unirse a carreras de karts. Tienes la opción de organizar
 una carrera en un espacio específico, indicando el número de participantes, reglas, etc.
 Además, los propios circuitos también tienen la posibilidad de organizar sus propias
 carreras y torneos en sus centros. Por otra parte, puedes optar por unirte a carreras o
@@ -41,33 +41,33 @@ Miembros
 
 ![Comp](P1/img/CompetitiveAnalysis.png)
 
->A nuestro grupo de prácticas se le ha asignado las plataformas relacionadas con experiencia y planificación de ocio. Entre todas ellas, hemos decidido centrarnos en aquellas webs dedicadas a los tours. La web que hemos elegido ha sido FreeTour.com, una web donde puedes reservar tours gratis en cualquier lugar del mundo, que consiste en realizar un tour con un guía de forma totalmente gratuita y el precio lo pone el usuario mediante una propina en función del trabajo de dicho guía. Hemos elegido esta web porque nos gustó su apariencia a primera vista, está actualizada y el hecho de que ofrecen tours gratuitos llama mucho la atención a la hora de viajar.
+A nuestro grupo de prácticas se le ha asignado las plataformas relacionadas con experiencia y planificación de ocio. Entre todas ellas, hemos decidido centrarnos en aquellas webs dedicadas a los tours. La web que hemos elegido ha sido FreeTour.com, una web donde puedes reservar tours gratis en cualquier lugar del mundo, que consiste en realizar un tour con un guía de forma totalmente gratuita y el precio lo pone el usuario mediante una propina en función del trabajo de dicho guía. Hemos elegido esta web porque nos gustó su apariencia a primera vista, está actualizada y el hecho de que ofrecen tours gratuitos llama mucho la atención a la hora de viajar.
 
->No solo por estas razones hemos escogido FreeTour, pues hemos comparado con otras web del mismo estilo como son Civitatis, GranadaCity-Tour, GranadaTours y WalkinGranada. Hemos tenido en cuenta diversas características para realizar la decisión final de sobre cuál trabajar y finalmente llegamos a la conclusión de FreeTour y Civitatis eran las dos candidatas. Entre ellas elegimos FreeTour, ya que Civitatis no ofrecía tours virtuales, muy importantes actualmente, y además no disponía de muchos tours gratuitos.
+No solo por estas razones hemos escogido FreeTour, pues hemos comparado con otras web del mismo estilo como son Civitatis, GranadaCity-Tour, GranadaTours y WalkinGranada. Hemos tenido en cuenta diversas características para realizar la decisión final de sobre cuál trabajar y finalmente llegamos a la conclusión de FreeTour y Civitatis eran las dos candidatas. Entre ellas elegimos FreeTour, ya que Civitatis no ofrecía tours virtuales, muy importantes actualmente, y además no disponía de muchos tours gratuitos.
 
->El resto de opciones carecían de diversas características importantes como reviews, recomendaciones, etc o incluso no estaban actualizadas o estaban fuera de servicio.
+El resto de opciones carecían de diversas características importantes como reviews, recomendaciones, etc o incluso no estaban actualizadas o estaban fuera de servicio.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 ![Manuel](P1/img/PManuel.PNG)
 
->**Manuel:** Queríamos que Manuel fuese un ejemplo de persona formada, con estudios de posgrado, joven y cercano a los 30 años que no anda mal de dinero pero tampoco tiene para derrocharlo. Busca enseñarle la gastronomía de su ciudad a unos amigos de fuera, por lo que un tour guiado por los principales bares y tabernas puede ser una buena opción. Este perfil se sale del turista que busca monumentos pero que busca tours de otro estilo, por lo que podría ser un claro usuario de la web que estamos estudiando.
+**Manuel:** Queríamos que Manuel fuese un ejemplo de persona formada, con estudios de posgrado, joven y cercano a los 30 años que no anda mal de dinero pero tampoco tiene para derrocharlo. Busca enseñarle la gastronomía de su ciudad a unos amigos de fuera, por lo que un tour guiado por los principales bares y tabernas puede ser una buena opción. Este perfil se sale del turista que busca monumentos pero que busca tours de otro estilo, por lo que podría ser un claro usuario de la web que estamos estudiando.
 
 ![Jessica](P1/img/PJessica.PNG)
 
->**Jessica:** Queríamos un perfil extranjero que viniera de vacaciones a España. Por ello decimos crear a Jessica, una chica japonesa amante de los idiomas y de las culturas europeas que viajaba siempre que podía. Debido a que viaja mucho, no puede gastar todo lo que gustaría en sus viajes. Por ello suele buscar alternativas baratas para los tour, alojamiento, etc, lo que la hace un perfil perfecto para nuestra web.
+**Jessica:** Queríamos un perfil extranjero que viniera de vacaciones a España. Por ello decimos crear a Jessica, una chica japonesa amante de los idiomas y de las culturas europeas que viajaba siempre que podía. Debido a que viaja mucho, no puede gastar todo lo que gustaría en sus viajes. Por ello suele buscar alternativas baratas para los tour, alojamiento, etc, lo que la hace un perfil perfecto para nuestra web.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 ![JManuel](P1/img/JMManuel.PNG)
 
->**Manuel:** Como hemos dicho, busca pasar una buena tarde con sus amigos por Granada y  para ello decide hacer un tour por los principales bares y tabernas, que además tengan buenas vistas a la Alhambra. Finalmente encuentra un tour nocturno, que ofrece una experiencia fantástica, aunque no es gratuito. A pesar de esto, tiene esperanza en que será un buen recuerdo bonito.
+**Manuel:** Como hemos dicho, busca pasar una buena tarde con sus amigos por Granada y  para ello decide hacer un tour por los principales bares y tabernas, que además tengan buenas vistas a la Alhambra. Finalmente encuentra un tour nocturno, que ofrece una experiencia fantástica, aunque no es gratuito. A pesar de esto, tiene esperanza en que será un buen recuerdo bonito.
 
 ![JJessica](P1/img/JMJessica.PNG)
 
->**Jessica:** Jessica quiere viajar 15 días a Granada. Busca una quincena con buen clima, lo que hace que el billete de avión sea más caro. Esto le hace buscar opciones más baratas para los tours, aunque no le convenza mucho la idea al principio. Encuentra un tour que le convence y cumple sus requisitos, pero una vez lo reserva se da cuenta de que la mitad del tour es en inglés, un idioma que maneja bien, y la otra en español, el cual no conoce muy bien. Termina un poco preocupada ya que no sabe si va a poder disfrutar del tour al 100%
+**Jessica:** Jessica quiere viajar 15 días a Granada. Busca una quincena con buen clima, lo que hace que el billete de avión sea más caro. Esto le hace buscar opciones más baratas para los tours, aunque no le convenza mucho la idea al principio. Encuentra un tour que le convence y cumple sus requisitos, pero una vez lo reserva se da cuenta de que la mitad del tour es en inglés, un idioma que maneja bien, y la otra en español, el cual no conoce muy bien. Termina un poco preocupada ya que no sabe si va a poder disfrutar del tour al 100%
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -75,11 +75,11 @@ Miembros
 
 >[Enlace al PDF del Usability Review](P1/UsabilityReview.pdf)
 
->**Valoración Final:** 94
+**Valoración Final:** 94
 
->En general, la web es muy completa y funcional. La gran mayoría de características importantes para este tipo de webs las implementa de forma excelente, y solo falla en varios campos de poca importancia. Es por ello que la nota del Usability Review es muy alta, un 94, calificando la web de excelente. Desde el punto de vista de nuestros personajes cumple en una amplia mayoría las características que se evalúan, si bien tal vez para nuestro personaje extranjero podría tener menor nota ya que no se encuentra disponible su idioma. A pesar de esto, hemos intentando hacer una media entre los dos, además de que los tours también están en inglés, que es el principal idioma que se utiliza en el mundo.
+En general, la web es muy completa y funcional. La gran mayoría de características importantes para este tipo de webs las implementa de forma excelente, y solo falla en varios campos de poca importancia. Es por ello que la nota del Usability Review es muy alta, un 94, calificando la web de excelente. Desde el punto de vista de nuestros personajes cumple en una amplia mayoría las características que se evalúan, si bien tal vez para nuestro personaje extranjero podría tener menor nota ya que no se encuentra disponible su idioma. A pesar de esto, hemos intentando hacer una media entre los dos, además de que los tours también están en inglés, que es el principal idioma que se utiliza en el mundo.
 
->En cuanto a la práctica, nos ha parecido muy interesante, ya que por primera vez nos ponemos en el punto de vista del usuario que puede ser muy distinto al del programador. Nos hace ver problemas donde creíamos que no los había, a la vez que darnos cuenta de características que hasta ahora pasábamos por alto, como por ejemplo la selección de fechas para un viaje con un calendario de forma intuitiva, en lugar de especificar a mano los días. También, nos ha parecido muy útil, ya que estos estudios de usabilidad, de competidores, de posibles usuarios… podemos realizarlos en cualquier aplicación que se nos ocurra, para tratar siempre de ofrecer la mejor experiencia al usuario final.
+En cuanto a la práctica, nos ha parecido muy interesante, ya que por primera vez nos ponemos en el punto de vista del usuario que puede ser muy distinto al del programador. Nos hace ver problemas donde creíamos que no los había, a la vez que darnos cuenta de características que hasta ahora pasábamos por alto, como por ejemplo la selección de fechas para un viaje con un calendario de forma intuitiva, en lugar de especificar a mano los días. También, nos ha parecido muy útil, ya que estos estudios de usabilidad, de competidores, de posibles usuarios… podemos realizarlos en cualquier aplicación que se nos ocurra, para tratar siempre de ofrecer la mejor experiencia al usuario final.
 
 
 ## Paso 2. UX Design  
@@ -89,7 +89,7 @@ Miembros
 ----
 
 
->**POV:** Persona 1
+**POV:** Persona 1
 
 - **User:** Una persona adulta aficionada a los deportes de motor.
 
@@ -99,7 +99,7 @@ Miembros
 relacionada con el motor, como el karting, pero a ninguno de sus amigos le gusta por
 eso busca gente para participar en alguna carrera.
 
->**POV:** Persona 2
+**POV:** Persona 2
 
 - **User:** Una madre cuyo hijo le gustan los coches.
 
@@ -109,7 +109,7 @@ eso busca gente para participar en alguna carrera.
 niños de su edad relacionadas con este y busca una forma fácil de organizar o
 unirse a actividades ya creadas.
 
->**POV:** Persona 3
+**POV:** Persona 3
 
 - **User:** Un grupo de amigos.
 
