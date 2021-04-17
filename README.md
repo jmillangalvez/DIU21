@@ -85,24 +85,38 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a POVs
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>**POV:** Persona 1
 
+- **User:** Una persona adulta aficionada a los deportes de motor.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+- **Need:** Desconectar del trabajo.
 
+- **Insight:** Trabaja toda la semana y el finde le gustaría realizar alguna actividad
+relacionada con el motor, como el karting, pero a ninguno de sus amigos le gusta por
+eso busca gente para participar en alguna carrera.
 
+>**POV:** Persona 2
+
+- **User:** Una madre cuyo hijo le gustan los coches.
+
+- **Need:** Ofrecer a su hijo un hobby que le guste.
+
+- **Insight:** A su hijo le gusta el mundo del motor pero no hay muchas actividades para
+niños de su edad relacionadas con este y busca una forma fácil de organizar o
+unirse a actividades ya creadas.
+
+>**POV:** Persona 3
+
+- **User:** Un grupo de amigos.
+
+- **Need:** Una forma de competir en los karts de una manera más formal.
+
+- **Insight:** Van de vez en cuando a echar una carrera entre ellos pero les gustaría
+pasar al siguiente nivel y competir con más gente con sus misma afición.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
