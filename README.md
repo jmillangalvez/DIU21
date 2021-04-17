@@ -132,7 +132,9 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![SiteMap](P2/SiteMap/sitemap.png)  
+![SiteMap](P2/SiteMap/sitemap.png)
+
+**Labelling:**
 
 **Label** | **Scope note**     
 | ------------- | -------
