@@ -132,6 +132,8 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+**Site Map:**
+
 ![SiteMap](P2/SiteMap/sitemap.png)
 
 **Labelling:**
@@ -152,8 +154,33 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+**Página inicio no registrado:** 
 
+![Boceto1](P2/Bocetos/bocetos-PaginaIncioNoRegistrado.png)
+
+**Página inicio registrado:**
+
+![Boceto2](P2/Bocetos/bocetos-PaginaInicioRegistrado.png)
+
+**Página inicio instalación:** 
+
+![Boceto3](P2/Bocetos/bocetos-PaginaIncioInstalacion.png)
+
+**Buscar carrera:** 
+
+![Boceto4](P2/Bocetos/bocetos-BuscarCarrera.png)
+
+**Organizar carrera:** 
+
+![Boceto5](P2/Bocetos/bocetos-OrganizarCarrera.png)
+
+**Carrera:** 
+
+![Boceto6](P2/Bocetos/bocetos-Carrera.png)
+
+**Perfil:** 
+
+![Boceto7](P2/Bocetos/bocetos-Perfil.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
