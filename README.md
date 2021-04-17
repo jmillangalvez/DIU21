@@ -5,11 +5,22 @@ Grupo: DIU3_ALH.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>GoGoKart
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>App para organizar y unirse a carreras de karts. Tienes la opción de organizar
+una carrera en un espacio específico, indicando el número de participantes, reglas, etc.
+Además, los propios circuitos también tienen la posibilidad de organizar sus propias
+carreras y torneos en sus centros. Por otra parte, puedes optar por unirte a carreras o
+torneos que están organizándose. Cada usuario tendrá un perfil donde se muestra
+información acerca de las carreras que ha participado, zonas de preferencia o comentarios
+de otros usuarios. Así mismo, los centros que ofrecen sus instalaciones, también tienen un
+perfil en el que se muestra su localización, disponibilidad, comentarios de usuarios,
+competiciones activas o futuras, etc. Por último, puede haber carreras clasificatorias en las
+que tu posición en la carrera cambiará tu ranking, de manera que se pueden ofrecer
+premios, o los organizadores pueden optar por organizar carreras para un determinado
+nivel.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
