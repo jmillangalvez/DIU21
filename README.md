@@ -5,7 +5,7 @@ Grupo: DIU3_ALH.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
->GoGoKart
+>GoGoKart: App para organizar torneos de karts
 
 Descripción: 
 
