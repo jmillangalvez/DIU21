@@ -123,21 +123,28 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 
 ![ScopeCanvas](P2/ScopeCanvas.png)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.b Tasks analysis: Task flow
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![TaskFlow](P2/TaskFlow/taskflow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![SiteMap](P2/SiteMap/sitemap.png)  
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
+**Label** | **Scope note**     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+ Organizar carrera  | Lleva al menú que permite organizar una carrera. Icono: Bandera a cuadros con un símbolo “+”
+ Buscar carrera  | Lleva a una lista de las carreras disponibles. Icono: Lupa con una bandera a cuadros dentro
+ Crear cuenta  | Lleva al menú para crear una cuenta, diferenciando entre usuario e instalaciones. Icono: Monigote con un símbolo “+”
+ Ranking de usuarios  | Lleva a la lista de usuarios. Tiene filtros y buscador para poder buscar a un usuario específico. Icono: Podio
+ Perfil  | Lleva a la información de perfil. Icono: Imagen de perfil del usuario
+ Registrar instalación  | Lleva a la página de registro de instalación. Solo puedes acceder con una cuenta de instalaciones. Icono: La silueta de un circuito con un símbolo “+”
+ Instalaciones disponibles  | Lleva a la lista de circuitos disponibles. Icono: Silueta de un circuito
+ Contacto  | Lleva a la página de contacto. Icono: teléfono
+ About us  | Lleva a la página de información sobre la empresa. Icono: varios monigotes
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
