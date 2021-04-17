@@ -120,7 +120,8 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![ScopeCanvas](P2/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
