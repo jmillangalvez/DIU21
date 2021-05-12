@@ -5,7 +5,7 @@ Grupo: DIU3_ALH.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
->GoGoKart: App para organizar torneos de karts
+>**GoGoKart:** App para organizar torneos de karts
 
 Descripción: 
 
@@ -202,7 +202,7 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-![LandingPAge](P3/LandingPage/LandingPage.png)
+![LandingPage](P3/LandingPage/LandingPage.png)
 
 Hemos utilizado la tipografía y colores que hemos explicado anteriormente con el objetivo
 de llamar la atención al cliente. En la parte de la izquierda habría un vídeo de una carrera de
@@ -250,15 +250,14 @@ con la tecnología.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Mockup](P3/Mockup.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+![Gif](P3/videos/gif_github.gif)
 
 
 ## Paso 4. Evaluación 
