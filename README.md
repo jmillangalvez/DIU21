@@ -202,13 +202,50 @@ pasar al siguiente nivel y competir con más gente con sus misma afición.
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-![MoodBoard](P3/LangindPage/LandingPage.png)
+![LandingPAge](P3/LandingPage/LandingPage.png)
+
+Hemos utilizado la tipografía y colores que hemos explicado anteriormente con el objetivo
+de llamar la atención al cliente. En la parte de la izquierda habría un vídeo de una carrera de
+karts, para que se sienta la emoción aún más. En la parte derecha hay una lista de
+características de nuestra app que te motivan a utilizarla. Por último el botón, resaltado en
+rojo, que te lleva a la app en sí.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+**Patrones:**
+
+- **Menú desplegable:** En la parte superior izquierda aparecerá un icono que si lo clicas abrirá un menú desplegable desde el cual podrás acceder a tu perfil y realizar las diferentes acciones de la página cómo buscar carreras, organizar carreras, etc. Abajo del todo estará el botón para cerrar sesión, con un color diferente al de los demás.
+
+- **Buscador:** Cuando entras en una opción que necesite de una barra buscador, como buscar carrera, aparecerá una barra donde poder escribir el texto a buscar. En la parte derecha de la barra aparecerá una cruz que si pulsas borra el texto que tengas escrito. Para buscar el texto escrito, se debe pulsar el intro/lupa en el teclado del dispositivo.
+
+- **Autocompletar:** Cuando estés buscando en el buscador, debajo de la barra aparecerán algunas entradas con circuitos que estén registrados en la aplicación y
+concuerdan con lo que estás escribiendo- Leaderboard: Consistirá en un título indicando el inicio de la lista y justo debajo los nombres de los corredores con más puntos. En cada línea aparecerá un corredor, indicando el nombre y su estadísticas. Para bajar en la lista basta con hacer scroll en la pantalla.
+
+- **Filtro de buscador:** Junto al buscador aparecerá un botón que permite entrar en una sección donde aplicar filtros a la búsqueda.
+
+- **Listas:** Una vez has realizado la búsqueda, aparece una lista parecida a la del leaderboard, en la cual aparecen todos los elementos que concuerdan con los criterios de búsqueda. Si no caben en una página puedes hacer scroll para ver todos los resultados.
+
+- **Carrusel:** En la página principal aparecerá un carrusel con fotos de carreras pasadas que inciten a apuntarte. Además, en las páginas de los circuitos este carrusel contendrá fotos de las instalaciones. En carrusel va cambiando de foto cada 5 segundos. También puedes cambiar manualmente deslizando la foto con el dedo.
+
+**Guidelines:**
+
+- **Objetivos:**
+
+    - **Claridad:** El objetivo principal de nuestra página es que el usuario no se sienta perdido mientras navega por la app, que sepa en todo momento en
+que página está y como llegar al resto de páginas. Para ello, utilizaremos una interfaz clara, sin muchos elementos que distraigan y destacando las partes
+importantes.
+
+    - **Fácil manejo:** Queremos que nuestra app pueda ser utilizada por todos de forma sencilla e intuitiva, incluso por personas que no tengan mucho contacto
+con la tecnología.
+
+- **Principios:**
+
+    - **Flexibilidad:** Queremos que todo nuestro público se sienta cómodo navegando en la app, por ello ofrecemos muchas opciones de personalización.
+
+    - **Sencillez:** Debido a que las funcionalidades de la app no son muy complicadas, queremos mantener el diseño de la misma sencillo.
+
+    - **Práctica:** Navegar por la app debe ser sencillo. Por ello, no se necesita realizar mucho esfuerzo para obtener el resultado deseado
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
