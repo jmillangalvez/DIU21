@@ -259,6 +259,7 @@ con la tecnología.
 
 ![Gif](P3/videos/gif_github.gif)
 
+Para probar la aplicación se puede hacer desde el siguiente enlace: https://xd.adobe.com/view/76bcfaf1-4d68-4b21-9e0a-7e59b0cd3d9f-23ef/
 
 ## Paso 4. Evaluación 
 
