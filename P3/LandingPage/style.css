@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;src: url(https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+.container {
+    height: 100%;
+    overflow: scroll;
+}
+
+.container__section {
+    /* Take full size */
+    height: 100%;
+    width: 100%;
+
+    /* Stick to the top */
+    position: sticky;
+    top: 0;
+}
+
+#part1{
+    background: linear-gradient(180deg, rgba(0,0,0,1) 10%, rgba(168,0,0,1) 60%);
+}
+
+#titulo{
+    color: white;
+    font-size: 4em;
+}
+
+#subtitulo{
+    color: white;
+    font-size: 1.5em;
+}
+
+#centro{
+    width: 80%;
+    height: 70%;
+    background-color: white;
+    opacity: 0.7;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#video{
+    height: 80%;
+    width: 40%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+    left: 50px;
+    text-align: center;
+}
+
+#video p{
+    position: relative;
+    top: 45%;
+}
+
+#beneficios{
+    height: 80%;
+    width: 40%;
+    position: relative;
+    left: 850px;
+    bottom: 470px;
+}
+
+#beneficios ul{
+    list-style-type: '➢';
+}
+
+#beneficios li{
+    font-size: 2.5em;
+    margin-top: 15px;
+}
+
+#boton{
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 20px;
+    background-color: red;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    font-size: 2.5em;
+    font-weight: bold;
+}
