@@ -312,18 +312,32 @@ Enlace al repositorio: https://github.com/santiagocarbo89/DIU21
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Cuestionarios individuales:
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+**Rafa**
 
+![SUS_Rafa](P4/SUS/SUS_Rafa.png)
+
+**Javier**
+
+![SUS_Javier](P4/SUS/SUS_Javier.png)
+
+**Cintia**
+
+![SUS_Cintia](P4/SUS/SUS_Cintia.png)
+
+**Alba**
+
+![SUS_Alba](P4/SUS/SUS_Alba.png)
+
+**Notas**
+
+![SUS_Notas](P4/SUS/SUS_Nota.png)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+Para ver el Usability Report del grupo DIU1.Salsoteca(Navis) pulse [aquí.](P4/P4_UsabReport_Navis_doneby_DIU3_ALH.pdf) 
 
 
 >>> Valoración personal 
