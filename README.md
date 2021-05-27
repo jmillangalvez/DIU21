@@ -9,17 +9,7 @@ Proyecto:
 
 Descripción: 
 
->App para organizar y unirse a carreras de karts. Tienes la opción de organizar
-una carrera en un espacio específico, indicando el número de participantes, reglas, etc.
-Además, los propios circuitos también tienen la posibilidad de organizar sus propias
-carreras y torneos en sus centros. Por otra parte, puedes optar por unirte a carreras o
-torneos que están organizándose. Cada usuario tendrá un perfil donde se muestra
-información acerca de las carreras que ha participado, zonas de preferencia o comentarios
-de otros usuarios. Así mismo, los centros que ofrecen sus instalaciones, también tienen un
-perfil en el que se muestra su localización, disponibilidad, comentarios de usuarios,
-competiciones activas o futuras, etc. Por último, puede haber carreras clasificatorias en las
-que tu posición en la carrera cambiará tu ranking, de manera que se pueden ofrecer
-premios, o los organizadores pueden optar por organizar carreras para un determinado
+>App para organizar y unirse a carreras de karts. Tienes la opción de organizar una carrera en un espacio específico, indicando el número de participantes, reglas, etc. Además, los propios circuitos también tienen la posibilidad de organizar sus propias carreras y torneos en sus centros. Por otra parte, puedes optar por unirte a carreras o torneos que están organizándose. Cada usuario tendrá un perfil donde se muestra información acerca de las carreras que ha participado, zonas de preferencia o comentarios de otros usuarios. Así mismo, los centros que ofrecen sus instalaciones, también tienen un perfil en el que se muestra su localización, disponibilidad, comentarios de usuarios, competiciones activas o futuras, etc. Por último, puede haber carreras clasificatorias en las que tu posición en la carrera cambiará tu ranking, de manera que se pueden ofrecer premios, o los organizadores pueden optar por organizar carreras para un determinado
 nivel.
 
 Logotipo: 
@@ -340,40 +330,18 @@ Cuestionarios individuales:
 Para ver el Usability Report del grupo DIU1.Salsoteca(Navis) pulse [aquí.](P4/P4_UsabReport_Navis_doneby_DIU3_ALH.pdf) 
 
 
->>> Valoración personal 
+**Valoración personal:** En general la aplicación cumple bien su cometido. Como hemos comentado, hay varios aspectos que podrían ser mejorados, sobre todo el hecho de que la planificación de un mismo viaje está dividida en varias páginas distintas, lo que puede despistar a clientes
+con menos experiencia.
 
+El contenido de la aplicación es un poco simple, pero concreto. Se centra en un único aspecto, que es organizar un viaje, pero está bien implementado y cumple su cometido.
 
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+También cabe mencionar que la documentación de la aplicación es escasa. Solo muestra algunas funcionalidades de las que se mencionan en la descripción y a veces es complicado seguir el hilo de las fotos para saber como llegar a un funcionalidad completa. Estaría bien añadir una demo de la app para que se pudiera probar el prototipo.
 
 
 ## Conclusión final / Valoración de las prácticas
 
+Normalmente a la hora de diseñar un proyecto personal, mi metodología se basaba en simplemente diseñar algo que se viera medianamente bien y que me gustara. A lo largo de la realización de estas prácticas me he dado cuenta de este proceso es mucho más importante y que se le debería dar más peso. Me parecen increíble la cantidad de detalles que pueden hacer de tu diseño un diseño mucho más intuitivo, llamativo, e incluso inclusivo. 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+En cuanto al contenido de las prácticas en sí, me ha parecido muy correcto ya que en cada una se aprendía una cosa diferente, que posteriormente podías aplicar en las siguientes. En la primera práctica me sorprendió la cantidad de cosas que se pueden llegar a analizar en un diseño. En la segunda y tercera, como poco a poco puedes hacer que una idea vea la luz y como aplicar diferentes patrones de diseño y trucos pueden hacer que tu producto tenga mucha más calidad. Y en la cuarta me llamó la atención ver las propuestas de otros compañeros y sus puntos de vista ante los mismos problemas a los que nos enfrentamos nosotros.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Personalmente, me he llevado una grata sorpresa con estas prácticas ya que han sido muy entretenidas y enriquecedoras.
