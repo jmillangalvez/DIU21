@@ -26,8 +26,8 @@ Logotipo:
 ![Logo](P3/logo/logo_large_girado_blanco.png)
 
 Miembros
- * :bust_in_silhouette:  Jaime Millán Gálvez     :octocat: [MizugorouZ](https://github.com/MizugorouZ)
- * :bust_in_silhouette:  Antonio Zambrano Fernández     :octocat: [jmillangalvez](https://github.com/jmillangalvez)
+ * :bust_in_silhouette:  Antonio Zambrano Fernández     :octocat: [MizugorouZ](https://github.com/MizugorouZ)
+ * :bust_in_silhouette:  Jaime Millán Gálvez     :octocat: [jmillangalvez](https://github.com/jmillangalvez)
 
 ----- 
 
@@ -268,21 +268,45 @@ Para probar la aplicación se puede hacer desde el siguiente enlace: https://xd.
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+**Navis:** Se trata de una aplicación para realizar itinerarios de viajes permitiendo a los usuarios elegir distintas características como vuelos, estancia, rutas... Desde la app, una vez elegida la ruta principal, puedes añadir elementos al viaje como fotos, sugerencias, precios estimados, etc, de forma que si compartes viaje con otras personas, puedes tener una zona común donde desarrollar idea sobre el mismo.
+
+Enlace al repositorio: https://github.com/santiagocarbo89/DIU21
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+**Tirada dados**
+
+**Persona 1:**
+- **Tipo:** 5, Trabajador
+- **Actividad:** 3, Baile
+- **Emociones:** 1, Enfadados
+
+**Persona 2:**
+- **Tipo:** 1, Tranquilo
+- **Actividad:** 4, Organizador
+- **Emociones:** 6, Tristeza
+
+**Persona 3:**
+- **Tipo:** 3, Amigable
+- **Actividad:** 6, Caminar
+- **Emociones:** 4, Sorprendido
+
+**Persona 4:**
+- **Tipo:** 2, Familiar
+- **Actividad:** 5, Fotografía
+- **Emociones:** 1, Enfadados
  
+**Usuarios finales**
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Rafa  | H / 30   | Trabajador infantil  | Media/Alta       | Trabajador/Baile/Enfadado | Móvil       | A 
+| Javier  | H / 21   | Estudiante  | Media/Baja       | Tranquilo/Organizador/Tristeza       | Móvil        | B 
+| Cintia  | M / 20   | Panadera     | Media        | Amigable/Caminar/Sorprendido    | Tablet      | A 
+| Alba  | M / 50   | Profesora  | Alta       | Familiar/Fotografía/Enfada     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
